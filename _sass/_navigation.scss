@@ -84,7 +84,7 @@
       text-align: center;
       text-decoration: none;
       color: mix(#fff, $gray, 25%);
-      border: 1px solid $light-gray;
+      border: 1px solid $lighter-gray;
       border-radius: 0;
 
       &:hover {
@@ -164,7 +164,7 @@
 .page__comments + .pagination {
   margin-top: 2em;
   padding-top: 2em;
-  border-top: 1px solid $border-color;
+  border-top: 3px solid $border-color;
 }
 
 
@@ -314,7 +314,7 @@
    ========================================================================== */
 
 .nav__list {
-  font-size: 1.25rem;
+  font-size: 3rem;
 
   ul {
     margin-bottom: 1em;
@@ -347,7 +347,7 @@
 
 .nav__title {
   margin: 0;
-  padding: 0.5rem 1rem;
+  padding: 0rem 1rem;
   font-family: $sans-serif-narrow;
   font-size: $type-size-5;
   font-weight: bold;
