@@ -15,8 +15,8 @@ Previously, I was a Krener Assistant Professor in the [Mathematics Department](h
 | Interests: |  | Contact Information: |
 | --- | -- | --- |
 | - Dynamical Systems| | sdodson [at] colby [dot] edu |
-| - Mathematical Biology | | Office: TBA |
-| - Nonlinear Waves | | |
+| - Mathematical Biology | | Office: Davis 213 |
+| - Nonlinear Waves | |Phone: x5845 |
 | - Agent-Based Modeling | | |
 | - Computational Methods | | |
 
@@ -28,16 +28,16 @@ Recent News
 - New Publication: **S. Dodson**, T.J. Lewis [*Wave Reflections in Excitable Media Linked to Existence and Stability of One-Dimensional Spiral Waves*](https://doi.org/10.1137/21M1425025), SIAM Journal on Applied Dynamical Systems, 2022.
 
 
-Upcoming Activities
----
-- August 2022: [SIAM Conference on Nonlinear Waves and Coherent Structures](https://www.siam.org/conferences/cm/conference/nwcs22)
-- January 2023: [Joint Mathematics Meetings](https://www.jointmathematicsmeetings.org//jmm)
 
 
 
 Selection of Recent Past activities
 ---
-
+- May 2023: **SIAM Conference on Applications of Dynamical Systems**, Portland, OR. Presented in minisymposium.
+- April 2023: **Boston University**, Dynamical Systems Seminar, Boston, MA. Presented: _Behavior of Spiral Wave Spectra with a Rank-Deficient Diffusion Matrix_.
+- April 2023: **Kennesaw State University,** Analysis and Applied Math Seminar (virtual). Presented _Influence of local curvature on the formation of ectopic rhythms in cardiac tissue_.
+- January 2023: **Joint Mathematics Meetings**, Boston, MA. Presented in two AMS special sessions.
+- December 2022: **CRM Applied Mathematics Seminar** (virtual). Presented: _When curvature promote or obstructs the ability of a pacemaking region to drive activity in excitable tissue_.
 - June 2022: **AWM Research Symposium**, Mineappolis, MN. Presented: _When curvature promote or obstructs the ability of a pacemaking region to drive activity in excitable tissue_.
 - April 2022: **Rochester Institute of Technology**, School of Mathematical Science Colloquium (virtual). Presented: _Traveling waves, reflections, and the onset of cardiac arrhythmia_.
 - April 2022: **Sonoma State University MATH Colloquium**, Rohnert Park, CA. Presented: _Modelling Population Migrations from Individual Decisions_.

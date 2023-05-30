@@ -3,8 +3,17 @@ permalink: /teaching/
 title: "Courses"
 ---
 
+- Fall 2023
+    - MA 311: Ordinary Differential Equations
+    - MA 411: Topics in Differential Equations
 
-- Fall 2022: Coming soon!
+- Spring 2023
+    - MA 311: Ordinary Differential Equations
+    - MA 332: Numerical Analysis
+
+- Fall 2022
+    - MA 160: Series & Multivariable Calculus
+    - MA 311: Ordinary Differential Equations
 
 
 

@@ -31,7 +31,10 @@ Throughout this area of research, I focus on spiral and traveling waves waves th
 
 ### Presentations
 - [One-dimensional spiral waves and reflection-induced cardiac arrthymia](https://www.youtube.com/watch?v=NRbbmnZSfM4&t=35s), Applied PDE Seminar, University of Washington (virtual), May 2021.
-- [Role of Spectra in Period-Doubling Instability of Spiral Waves](https://www.pathlms.com/siam/courses/11697/sections/14926/video_presentations/129770#), SIAM Conference on Applications of Dynamical Systems, May 2019, Snowbird, UT
+- [One-Dimensional Spiral Waves, Source Defects, and Initiation of Cardiac Arrhythmia](/files/oneD_spiral_waves.pdf), poster presented at Dynamics Days Digital 2020, August 2020. 
+- [Role of Spectra in Period-Doubling Instability of Spiral Waves](https://www.pathlms.com/siam/courses/11697/sections/14926/video_presentations/129770#), SIAM Conference on Applications of Dynamical Systems, May 2019, Snowbird, UT.
+- [Spectral Properies of Spiral Waves in the Karma Model](/files/spectral_properties_spiral_waves.pdf), poster presented at SIAM Conference on Applications of Dynamical Systems, May 2017, Snowbird, UT.
+
 
 <p float="center">
 <img src="/images/ML_pic2.png" width="30%" />
