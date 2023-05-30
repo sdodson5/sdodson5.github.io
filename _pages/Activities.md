@@ -9,17 +9,17 @@ title: "Activities"
 
 
 <p float="center">
-  <img src="/images/trinity_alps.JPG" width="30%" />
-  <img src="/images/horns.JPG" width="30%" />
-  <img src="/images/kings_canyon.JPG" width="30%" />
+  <img src="/images/trinity_alps.jpg" width="30%" />
+  <img src="/images/horns.jpg" width="30%" />
+  <img src="/images/kings_canyon.jpg" width="30%" />
 </p>
 
 <br>
 
 <p float="center">
-  <img src="/images/NH.JPG" width="30%" />
-  <img src="/images/joshua_tree.JPG" width="30%" />
-  <img src="/images/acadia.JPG" width="30%" />
+  <img src="/images/NH.jpg" width="30%" />
+  <img src="/images/joshua_tree.jpg" width="30%" />
+  <img src="/images/acadia.jpg" width="30%" />
 </p>
 
 <br>
